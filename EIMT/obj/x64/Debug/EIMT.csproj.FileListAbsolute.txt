@@ -1,0 +1,130 @@
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\EIMT.exe.config
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\EIMT.exe
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\EIMT.pdb
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Buffers.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Drawing.Common.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Memory.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.ValueTuple.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Buffers.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Memory.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.ValueTuple.xml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\ButtonStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\CheckBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\ComboBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\GroupBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\RadioButtonStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\SliderStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\TabControlStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\TextBoxStyles.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\MainWindow.g.cs
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\App.g.cs
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT_Content.g.cs
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT_MarkupCompile.cache
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT_MarkupCompile.lref
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\App.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\MainWindow.baml
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.g.resources
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.Properties.Resources.resources
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.GenerateResource.cache
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.CoreCompileInputs.cache
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.CopyComplete
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.exe
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.pdb
+C:\Data Disk\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.AssemblyReference.cache
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\EIMT.exe.config
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\EIMT.exe
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\EIMT.pdb
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.Extensions.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Buffers.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Drawing.Common.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Memory.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.ValueTuple.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Xceed.Wpf.Toolkit.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\OpenCvSharp.Extensions.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Buffers.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Memory.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\System.ValueTuple.xml
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.AssemblyReference.cache
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\ButtonStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\CheckBoxStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\ComboBoxStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\GroupBoxStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\RadioButtonStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\SliderStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\TabControlStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\UI\TextBoxStyles.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\MainWindow.g.cs
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\App.g.cs
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT_Content.g.cs
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT_MarkupCompile.cache
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT_MarkupCompile.lref
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\App.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\MainWindow.baml
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.g.resources
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.Properties.Resources.resources
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.GenerateResource.cache
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.CoreCompileInputs.cache
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.CopyComplete
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.exe
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.pdb
