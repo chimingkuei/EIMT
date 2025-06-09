@@ -125,6 +125,6 @@ D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.g.resources
 D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.Properties.Resources.resources
 D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.GenerateResource.cache
 D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.CoreCompileInputs.cache
-D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.CopyComplete
 D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.exe
 D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.pdb
+D:\Chimingkuei\repos\EIMT\EIMT\obj\x64\Debug\EIMT.csproj.Up2Date
