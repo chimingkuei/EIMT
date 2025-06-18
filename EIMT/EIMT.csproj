@@ -141,7 +141,7 @@
     </Compile>
     <Compile Include="BaseConfig.cs" />
     <Compile Include="BaseLogRecord.cs" />
-    <Compile Include="Core.cs" />
+    <Compile Include="AOIHandler.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

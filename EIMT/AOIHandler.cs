@@ -15,7 +15,7 @@ namespace EIMT
         bool CheckFileFormat(string path);
     }
 
-    class Core: IData
+    class AOIHandler: IData
     {
         public IEnumerable<(string, string[], string[])> Walk(string root_path)
         {

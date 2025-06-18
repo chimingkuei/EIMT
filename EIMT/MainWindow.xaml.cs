@@ -206,7 +206,7 @@ namespace EIMT
         }
         BaseLogRecord Logger = new BaseLogRecord();
         BaseConfig<Parameter> Config = new BaseConfig<Parameter>();
-        Core Do = new Core();
+        AOIHandler Do = new AOIHandler();
         #endregion
 
         #region Main Screen
